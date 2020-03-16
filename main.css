@@ -1,0 +1,18 @@
+* {
+    font-size: 120%;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+p{
+    margin: 0px;
+    padding: 0px;
+    display: inline;
+}
+
+.wyjatek {
+    color: crimson;
+}
