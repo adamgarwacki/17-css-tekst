@@ -1,18 +1,20 @@
 * {
-    font-size: 120%;
-    text-align: center;
+    font-size: 1.2em;
 }
 
 h1 {
+    text-align: center;
     color: blue;
 }
 
-p{
+p {
+    text-align: center;
     margin: 0px;
     padding: 0px;
-    display: inline;
 }
 
-.wyjatek {
+span {
+    
+    font-size: 1em;
     color: crimson;
 }
